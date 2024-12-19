@@ -1,0 +1,8 @@
+<div class="container mx-auto p-4">
+  <h2 class="text-2xl font-bold mb-4">User List</h2>
+  <ul class="list-disc pl-6">
+    <li *ngFor="let user of users" class="mb-2">
+      <span class="font-medium">{{ user.username }}</span> ({{ user.email }})
+    </li>
+  </ul>
+</div>
