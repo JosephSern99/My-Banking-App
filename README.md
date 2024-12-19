@@ -6,11 +6,11 @@ A full-stack banking transaction application built with a Java Spring Boot backe
 
 Task Log / Use Cases:
 i) Make Transactions
-< br / >
+<br />
 ii) Transactions Records
-< br / >
+<br />
 iii) Visualization of Historical Transactions
-< br / >
+<br />
 iv) Notifications for successful transactions
-< br / >
+<br />
 v) Policy Agreement
