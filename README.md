@@ -1,7 +1,4 @@
 "# My-Banking-App" 
 
-Backend: Java SpringBook Framework
-Frontend: Angular Js
 
-Both autocompile option is open
-Enabled CORS for allowing the front-end to access the back-end endpoint api method calls
+A full-stack banking transaction application built with a Java Spring Boot backend and an AngularJS frontend. Both projects are configured with auto-compilation and CORS enabled for seamless development.
