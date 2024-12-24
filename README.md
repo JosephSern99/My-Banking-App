@@ -12,6 +12,10 @@ ii) Transactions Records
 <br />
 iii) Visualization of Historical Transactions
 <br />
-iv) Notifications for successful transactions
+iv) Notifications for Successful Transactions
 <br />
-v) Policy Agreement
+v) Withdrawal
+<br />
+vi) Savings Account
+<br />
+vii) Policy Agreement
